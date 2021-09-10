@@ -5,8 +5,8 @@
       "title": "delectus aut autem",
       "completed": false,
       "object1": 
-      ["hello1",
-        "hello2"]
+      {"hello1": "hi",
+        "hello2": "hi"}
       
     },
     {
@@ -15,7 +15,7 @@
       "title": "quis ut nam facilis et officia qui",
       "completed": false,
       "object1": 
-        ["hello3",
-        "hello4"]
+        {"hello3": "hi",
+        "hello4": "hi"}
     }
 ]
