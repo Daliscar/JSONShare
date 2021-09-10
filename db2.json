@@ -4,10 +4,14 @@
       "id": 1,
       "title": "delectus aut autem",
       "completed": false,
-      "object1": 
-      ["hello1",
-        "hello2"]
-      
+      "object1": ["hello1", "hello2"],
+      "object2": {
+                    "property1": "test1",
+                    "property2": "test2",
+                    "property3": "test3",
+                    "property4": "test4"
+                  }
+
     },
     {
       "userId": 1,
@@ -16,6 +20,12 @@
       "completed": false,
       "object1": 
       ["hello3",
-        "hello4"]
+        "hello4"],
+      "object2": {
+        "property1": "test1",
+        "property2": "test2",
+        "property3": "test3",
+        "property4": "test4"
+      }
     }
 ]
