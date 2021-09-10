@@ -4,21 +4,21 @@
       "id": 1,
       "title": "delectus aut autem",
       "completed": false,
-      "object1": {
+      "object1": [{
         "item1": 50,
         "item2": 100,
         "item3": 150
-      }
+      }]
     },
     {
       "userId": 1,
       "id": 2,
       "title": "quis ut nam facilis et officia qui",
       "completed": false,
-      "object1": {
+      "object1": [{
         "item1": 51,
         "item2": 101,
         "item3": 152
-      }
+        }]
     }
 ]
